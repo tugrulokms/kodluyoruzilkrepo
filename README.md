@@ -3,8 +3,7 @@
 Kodluyoruz Eğitimi kapsamında açtığım ilk repo
 
 
-## Installation
-
+## Installation
 İndirmek için aşağıdaki bağlantıyı kullanabilirsiniz:
 ```
 git clone https://github.com/tugrulokms/kodluyoruzilkrepo.git
