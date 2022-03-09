@@ -23,4 +23,6 @@ code .
 
 [MIT](https://choosealicense.com/licenses/mit/)
 
+## Picture
+
 ![Picture](img/projectPicture.png)
