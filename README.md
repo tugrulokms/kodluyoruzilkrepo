@@ -10,7 +10,7 @@ git clone https://github.com/tugrulokms/kodluyoruzilkrepo.git
 ```
 ## Usage
 
-Sonrasında dosyayı vscode ile açabilirsiniz.
+Sonrasında dosyayı vscode ile açabilirsiniz. 
 
 Linux için:
 
